@@ -1,0 +1,146 @@
+#body1{
+    background-image: url(images/194.jpg);
+    background-size: cover;
+}
+#fh1{
+    float: left;
+    margin-left: 1.5em;
+    margin-top: 0.5em;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 120px;
+    text-shadow: 2px 2px 2px black;
+}
+.fimg1{
+    width: 350px;
+    margin-top: 3em;
+    margin-left: 13em;
+}
+
+.div1{
+    background-color: rgba(236, 168, 78, 0.329);
+    margin-top: 1em;
+    padding-bottom: 2em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px black;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 1em;
+}
+.btnf1{
+    margin-top: 100px;
+    margin-left: 70px;
+    height: 70px;
+    width: 150px;
+    background-color: rgba(233, 24, 24, 0.966);
+    color: white;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+}
+.btnf1:hover{
+    box-shadow: 5px 2px 2px 2px white;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.363);
+    border-radius: 10px;
+    padding-left: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 20px;
+    color: white;
+}
+.linfo{
+    color: white;
+    
+}
+#back2{
+    background: rgb(221,85,91);
+background: radial-gradient(circle, rgba(221,85,91,1) 4%, rgba(233,206,148,1) 92%);
+}
+.scph1{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 2px black;
+    margin-left: 1em;
+    width: 50%;
+}
+.price{
+    margin-left: 65em;
+    width: 250px;
+}
+
+.ban{
+    text-align: center;
+    /* margin-left: 25em; */
+}
+
+.icon4{
+    margin-left: 150px;
+}
+.prix{
+    margin-left: 155px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.icon3{
+    width: 20px;
+    height: 20px;
+}
+.btn2{
+    background-color: rgba(240, 255, 255, 0);
+    border: none;
+}
+.search{
+    margin-left: 75em;
+}
+.banner{
+    padding-left: 2em;
+    padding-right: 2em;
+    font-size: 25px;
+    color: white;
+}
+nav{
+    background-image: url(images/plat-restauration-rapide-bleu.jpg);
+    background-size: cover;
+    height: 550px;
+}
+.posr{
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+} 
+.posl{
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+.fimg2{
+   max-width: 350px;
+   max-height: 300px;
+    margin-top: 5em;
+    margin-left: 2em;
+    z-index: -2;
+}
+.icon2{
+    margin-bottom: 150px;
+}
+h3{
+    margin-left: 220px;
+    color: white;
+    font-size: 23px;
+}
+.pizzas{
+    max-width: 250px;
+    max-height: 300px;
+}
+section{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.butt{
+    background-color: rgba(188, 7, 7, 0.546);
+    border: 1px solid black;
+    border-radius: 5px;
+}
